@@ -55,3 +55,18 @@ button:hover{
 .btn:hover{
     background-color: rgb(9, 29, 253);
 }
+.Glava{
+    padding: 4px;
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border: none;
+    border-radius: 1px;
+    font-size: 1em;
+    margin-top: 1%;
+    outline: none;
+    text-decoration: none;
+    margin-top: 10;    
+}
+.Glava:hover{
+    background-color: rgb(9, 29, 253);
+}
